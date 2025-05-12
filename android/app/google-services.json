@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "324614380151",
+    "project_id": "opiniononion-da592",
+    "storage_bucket": "opiniononion-da592.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324614380151:android:97e854bd5d269fa3168472",
+        "android_client_info": {
+          "package_name": "com.knwenas.test1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7pWsDJB6w20AsolrUMaldbJ-b7ePSQow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
